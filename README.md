@@ -1,2 +1,2 @@
-# SoundPack
-CoolV Beats Sound Pack
+# SoundPack (Vocals)
+CoolV Beats Vocals Pack
